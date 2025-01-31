@@ -115,9 +115,10 @@ docker run --rm -v "$(pwd):/app" reproducible_pipeline
 
 
 ## Future Work
-Enhance visualizations with interactive plots.
-Add automated tests for data validation.
-Host pipeline as a web service using frameworks like Flask or FastAPI.
+ **Enhance visualizations:** Add interactive plots for better user engagement.  
+ **Automated tests:** Implement tests for data validation to ensure pipeline reliability.  
+ **Web service hosting:** Host the pipeline as a web service using frameworks like Flask or FastAPI.
+
 
 
 

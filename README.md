@@ -80,21 +80,7 @@ Project Overview
     Dataset: Amazon sales dataset located in the data/ directory as amazon.csv.
     Outputs: Cleaned data and visualizations stored in the outputs/ directory.
 
-Repository Structure
-
-Reproducible_Pipeline_Final_Project/
-├── data/
-│   ├── amazon.csv              # Raw dataset
-│   ├── Project_Part_3_Movahedi.ipynb  # Optional Jupyter notebook for exploration
-├── outputs/
-│   ├── cleaned_amazon.csv      # Cleaned dataset
-│   ├── top_10_product_ids.png  # Visualization of top product IDs
-├── WS2_FINAL_Project.py        # Main Python script
-├── Dockerfile                  # Docker configuration (optional)
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
-
-Instructions to Run Locally
+## Instructions to Run Locally
 1. Clone the Repository
 
 git clone https://github.com/whoseyashar/Reproducible_Pipeline_Final_Project.git

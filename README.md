@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 python WS2_FINAL_Project.py
 
-5. Outputs
+ Outputs:
 
     The cleaned dataset will be saved in outputs/cleaned_amazon.csv.
     The visualization plot will be saved in outputs/top_10_product_ids.png.

@@ -88,8 +88,8 @@ cd Reproducible_Pipeline_Final_Project
 
 2. Set Up Environment
 
-    Ensure Python (version ≥3.9) is installed.
-    Create a virtual environment:
+ Ensure Python (version ≥3.9) is installed.
+ Create a virtual environment:
 
     python -m venv env
     source env/bin/activate    # For Linux/MacOS
@@ -108,7 +108,8 @@ python WS2_FINAL_Project.py
     The cleaned dataset will be saved in outputs/cleaned_amazon.csv.
     The visualization plot will be saved in outputs/top_10_product_ids.png.
 
-Optional: we can Running with Docker
+## Optional:
+we can Running with Docker
 
 To run the pipeline in a Docker container:
 1. Build the Docker Image

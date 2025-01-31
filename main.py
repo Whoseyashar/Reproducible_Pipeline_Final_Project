@@ -16,3 +16,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+print("Starting the pipeline...")
+data = load_data(data_file)
+if data is not None:
+    print("Pipeline executed successfully!")
+else:
+    print("Pipeline execution failed. Please check the dataset path.")

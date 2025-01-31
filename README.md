@@ -66,20 +66,6 @@ python WS2_FINAL_Project.py
 The cleaned dataset will be saved in outputs/cleaned_amazon.csv.
 The visualization plot will be saved in outputs/top_10_product_ids.png.
 
-
-Here’s a more organized and detailed structure for your README.md:
-Reproducible_Pipeline_Final_Project
-
-University of Luxembourg
-Yashar Movahedi
-
-This project implements a reproducible pipeline for cleaning, analyzing, and visualizing a dataset from the Machine Learning Advanced course. It includes all necessary files, dependencies, and clear instructions to execute the pipeline efficiently.
-Project Overview
-
-    Objective: Create a reproducible pipeline for data processing and visualization.
-    Dataset: Amazon sales dataset located in the data/ directory as amazon.csv.
-    Outputs: Cleaned data and visualizations stored in the outputs/ directory.
-
 ## Instructions to Run Locally
 1. Clone the Repository
 

@@ -94,7 +94,7 @@ python WS2_FINAL_Project.py
 
     The cleaned dataset will be saved in outputs/cleaned_amazon.csv.
     The visualization plot will be saved in outputs/top_10_product_ids.png.
-
+```
 ## Optional:
 we can Running with Docker
 

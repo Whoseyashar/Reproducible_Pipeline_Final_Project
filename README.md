@@ -32,7 +32,6 @@ Cleaned data and visualizations are stored in the `outputs/` directory:
 Reproducible_Pipeline_Final_Project/
 ├── data/
 │   ├── amazon.csv                 # Raw dataset
-│   ├── Project_Part_3_Movahedi.ipynb  # Optional Jupyter notebook for exploration
 ├── outputs/
 │   ├── cleaned_amazon.csv         # Cleaned dataset
 │   ├── top_10_product_ids.png     # Visualization of top product IDs
@@ -40,6 +39,7 @@ Reproducible_Pipeline_Final_Project/
 ├── Dockerfile                     # Docker configuration (optional)
 ├── requirements.txt               # Python dependencies
 └── README.md                      # Project documentation
+
 ```
 ## Instructions to Execute the Pipeline
 

@@ -108,14 +108,11 @@ docker build -t reproducible_pipeline .
 docker run --rm -v "$(pwd):/app" reproducible_pipeline
 
 ## Key Features of the Pipeline
-Data Loading: Ensures the dataset is loaded correctly or provides an error message if not found.
-```
-Data Cleaning: Handles missing values and removes unnecessary columns or rows.
-```
-Visualization: Creates a bar chart of the top 10 most frequent product IDs.
-```
-Reproducibility: Can be executed in any environment using provided dependencies or Docker.
-```
+ **Data Loading:** Ensures the dataset is loaded correctly or provides an error message if not found.  
+ **Data Cleaning:** Handles missing values and removes unnecessary columns or rows.  
+ **Visualization:** Creates a bar chart of the top 10 most frequent product IDs.  
+ **Reproducibility:** Can be executed in any environment using provided dependencies or Docker.
+
 
 ## Future Work
 Enhance visualizations with interactive plots.

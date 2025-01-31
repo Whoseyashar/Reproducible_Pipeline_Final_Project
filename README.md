@@ -61,10 +61,11 @@ pip install -r requirements.txt
 4. Run the Pipeline
 ```
 python WS2_FINAL_Project.py
-```
-5. Outputs
-The cleaned dataset will be saved in outputs/cleaned_amazon.csv.
-The visualization plot will be saved in outputs/top_10_product_ids.png.
+
+Outputs:
+
+    The cleaned dataset will be saved as outputs/cleaned_amazon.csv.
+    The visualization plot will be saved as outputs/top_10_product_ids.png.
 
 ## Instructions to Run Locally
 1. Clone the Repository

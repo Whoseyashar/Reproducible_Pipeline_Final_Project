@@ -9,7 +9,7 @@ For this project, we use the dataset on Amazon Sales Data 🛒📈, which is inc
 
 For more information on the dataset and project, please consult the Project Documentation(https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda) You can also explore the dataset by cloning the repository and running the main Python script or exploring the optional Jupyter Notebook provided in the data/ folder.
 
-To get started, follow the instructions in the Execution Guide to install dependencies and run the pipeline seamlessly.
+To get started, follow the instructions in the Execution Guide to install dependencies and run the pipeline seamlessly:
 ---
 
 ## Project Overview
